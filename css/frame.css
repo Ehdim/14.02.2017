@@ -1,0 +1,23 @@
+.main{
+    width: 100%;
+    margin: 0 auto;
+}
+.float {
+    float: left;
+}
+.size{
+    width: 33%;
+    height: 100%;
+}
+.reng_1{
+    background:green;
+}
+.reng_2{
+    background-color: red;
+}
+.reng_3{
+    background-color: yellow;
+}
+img{
+    width: 100%;
+}
